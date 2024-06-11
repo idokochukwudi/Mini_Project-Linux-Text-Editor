@@ -1,0 +1,5 @@
+This is a `nano` interface where I am typing my text content.
+First of all, I had to create a text file named `nanotext.txt` using `touch nanotext.txt` command, then used `nano nanotext.txt` to open the text editor.
+
+To save my file I would need to press on `ctrl+o` to hit `enter key` then `ctrl+x` 
+to exit the text editor window.

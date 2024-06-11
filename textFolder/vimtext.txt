@@ -1,0 +1,3 @@
+This text editors was created using `touch vimtext.txt' command on my terminal then, then used `vi vimtext.txt` to open this interface here...
+
+Then to save this document; I hit on the escape key on my keyboard then type :wq to save this document.
